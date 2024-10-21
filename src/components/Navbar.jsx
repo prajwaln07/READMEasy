@@ -32,7 +32,7 @@ export default function Navbar() {
                 isActive ? "text-purple-400 font-semibold" : "text-gray-300 hover:text-purple-400 transition duration-300"
               }
             >
-              Home
+              Home Page
             </NavLink>
             <NavLink 
               to="/profileGenerator" 
